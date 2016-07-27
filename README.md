@@ -1,5 +1,5 @@
 # dcn_simulation_using_ns3
-This is the project for the USTC course CS05112, which was finished last year.
+This is the project for the USTC course CS05112, which was finished in 2015 fall semester.
 
 Datacenter Network Simulation using ns3
 
